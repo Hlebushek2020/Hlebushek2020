@@ -1,10 +1,12 @@
 <div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hlebushek2020&show_icons=true&theme=onedark)
+<!--<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hlebushek2020&layout=compact&theme=onedark)
 
-<img src="https://komarev.com/ghpvc/?username=Hlebushek2020&style=flat&color=orange" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Hlebushek2020&style=flat&color=orange" alt=""/> 
 <br/>
-<br/>
+<br/> -->
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
@@ -17,4 +19,3 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">  
 </div>
 </div>
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hlebushek2020&layout=compact&theme=onedark) -->
