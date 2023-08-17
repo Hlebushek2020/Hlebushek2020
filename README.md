@@ -1,3 +1,5 @@
+![img1 akspic ru-yarkoe_anime-anime-illustracia-rukav-oblako-5120x3063](https://github.com/Hlebushek2020/Hlebushek2020/assets/63193749/534c5e75-aeef-4fe9-871f-0bcd841cf7cc)
+
 <div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hlebushek2020&show_icons=true&theme=onedark)
